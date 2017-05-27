@@ -1,0 +1,8 @@
+/.idea
+/project
+/target
+/out
+grab_oclc_all.json
+out/
+src/main/resources/
+target/
